@@ -1,4 +1,4 @@
-#Waterproof case designed for COTS 1.3" OLED display modules
+#Waterproof case for COTS 1.3" OLED modules
 
 ##Summary:
 

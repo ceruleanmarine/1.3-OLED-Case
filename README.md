@@ -19,18 +19,29 @@ The case utilizes acrylic layers to create the enclosure and the seal is provide
 
 ##Bill of materials:
 
-1.3" OLED module (35.5mm x 35.5mm or smaller)
-Body:  1/2" (12mm) acrylic
-Lens:  1/16" (1.5mm) clear acrylic for lens
-Back Cover:  1/4" (3mm) acrylic, transparent recommended
-Bezel:  1/16" (1.5mm) acrylic
-Oring, 2-032
-Scigrip 16 acrylic adhesive
-PG7 cable gland or other electrical penetrator
-O-ring lube:  Super Lube or equivalent
+- Body:  1/2" (12mm) acrylic
+- Lens:  1/16" (1.5mm) clear acrylic for lens
+- Back Cover:  1/4" (3mm) acrylic, transparent recommended
+- Bezel:  1/16" (1.5mm) acrylic
+- Oring, 2-032
+- PG7 cable gland or other electrical penetrator
+- #4-40xXX" bolts, 4ea
+- #4-40 nyloc nuts, 4ea
+- #4 washers, 8ea
+
+
+##Tools and consumables
+- Scigrip 16 acrylic adhesive
+- O-ring lube:  Super Lube or equivalent
+- 1/2"-20 tap
 
 
 ##Assembly:
+
+- Cut acrylic components
+- Glue lens onto body ensuring complete coverage
+- Thread hole in back cover with 1/2-20 tap for PG7
+- Optional: trim PG7 to minimize threads protruding into case
 
 
 ##Sealing the unit:

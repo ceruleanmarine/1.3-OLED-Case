@@ -25,7 +25,7 @@ The case utilizes acrylic layers to create the enclosure and the seal is provide
 - Bezel:  1/16" (1.5mm) acrylic
 - Oring, 2-032
 - PG7 cable gland or other electrical penetrator
-- #4-40xXX" bolts, 4ea
+- #4-40x1" bolts, 4ea
 - #4-40 nyloc nuts, 4ea
 - #4 washers, 8ea
 

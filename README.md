@@ -4,7 +4,6 @@
   <img src="https://github.com/ceruleansubmergence/1.3-OLED-Case/blob/master/uSight.JPG" width="500">
 </p>
 
-
 ##Summary:
 
 The case utilizes acrylic layers to create the enclosure and the seal is provided via an o-ring. The internal is easily accessible via a bolt-on back cover and a cable feedthru is provided by a PG7 cable gland. The internal volume is large enough for the display and a small mcu board (pro mini, teensy, esp, etc) and control can be provided by capacitive sensing (untested) through the front bezel plate. Additional layers can be stacked on to increase the internal volume as required.
@@ -55,6 +54,9 @@ The case utilizes acrylic layers to create the enclosure and the seal is provide
 - Clean and inspect the sealing surface on the inside of the back cover
 - Lightly lubricate the o-ring
 - Install o-ring and back cover
-- Inspect the o-ring seal compression.  Look for a prominent black line (need photo) where the o-ring is compressed against the back cover.
+- Inspect the o-ring seal compression.  Look for a prominent black line (see photo below) where the o-ring is compressed against the back cover.
 
+<p align="center">
+  <img src="https://github.com/ceruleansubmergence/1.3-OLED-Case/blob/master/O-ring_Seal.png" width="500">
+</p>
 

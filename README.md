@@ -1,6 +1,6 @@
 #Waterproof case for COTS 1.3" OLED modules
 
-![display](https://github.com/ceruleansubmergence/1.3-OLED-Case/blob/master/Solid_Model.png)
+![display](https://github.com/ceruleansubmergence/1.3-OLED-Case/blob/master/uSight.JPG)
 
 ##Summary:
 

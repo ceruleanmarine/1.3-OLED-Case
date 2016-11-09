@@ -1,5 +1,7 @@
 #Waterproof case for COTS 1.3" OLED modules
 
+![display](https://github.com/ceruleansubmergence/1.3-OLED-Case/blob/master/Solid_Model.png)
+
 ##Summary:
 
 The case utilizes acrylic layers to create the enclosure and the seal is provided via an o-ring. The internal is easily accessible via a bolt-on back cover and a cable feedthru is provided by a PG7 cable gland. The internal volume is large enough for the display and a small mcu board (pro mini, teensy, esp, etc) and control can be provided by capacitive sensing (untested) through the front bezel plate. Additional layers can be stacked on to increase the internal volume as required.
@@ -21,7 +23,7 @@ The case utilizes acrylic layers to create the enclosure and the seal is provide
 
 - Body:  1/2" (12mm) acrylic
 - Lens:  1/16" (1.5mm) clear acrylic for lens
-- Back Cover:  1/4" (3mm) acrylic, transparent recommended
+- Back Cover:  1/4" (6mm) acrylic, transparent recommended
 - Bezel:  1/16" (1.5mm) acrylic
 - Oring, 2-032
 - PG7 cable gland or other electrical penetrator
@@ -31,7 +33,7 @@ The case utilizes acrylic layers to create the enclosure and the seal is provide
 
 
 ##Tools and consumables
-- Scigrip 16 acrylic adhesive
+- Scigrip 16 or weld-on #4 acrylic adhesive
 - O-ring lube:  Super Lube or equivalent
 - 1/2"-20 tap
 
